@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "deploy-test"
+  "defaultProject": "deploy-test",
+  "cli": {
+    "analytics": "d420431c-4c71-415e-8191-fba135eaf415"
+  }
 }
